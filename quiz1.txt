@@ -1,6 +1,5 @@
 # Graded by David Bajuk
 # BajDav18
-import lab2.py
-for i in range(lab2.n):
+import lab2
+for n in range(0, (lab2.n+1)):
     print "Hello World"
-print i

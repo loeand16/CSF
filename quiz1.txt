@@ -1,2 +1,6 @@
 # Graded by David Bajuk
 # BajDav18
+import lab2.py
+for i in range(lab2.n):
+    print "Hello World"
+print i

@@ -1,0 +1,14 @@
+Name: Andrew Loewen
+Evergreen ID: loeand16
+CSE 140
+Homework 3: Election prediction
+
+
+Collaboration:
+
+...
+
+Reflection:
+
+...
+

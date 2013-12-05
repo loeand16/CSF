@@ -66,7 +66,7 @@ print "Problem 4 solution follows:"
 n = 10
 fact = 1
 
-for f in range(n):
+for f in range(0, 11):
     fact = (f+1) * fact
     
 print fact

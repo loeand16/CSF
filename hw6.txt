@@ -1,0 +1,11 @@
+Please do the problems from your paired team:
+
+Maggie Aaron, aarmag22@evergreen.edu
+Zach Linton, linzac03@evergreen.edu
+Josh Kendall, kenjos03@evergreen.edu
+
+and commit them as hw6.py
+
+Also commit the files you wrote called hw6-ours.html and hw6-theirs.html
+
+Thanks, Paul
